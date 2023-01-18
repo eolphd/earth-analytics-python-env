@@ -19,7 +19,7 @@ Welcome to the Earth Analytics `Python` Environment Repository! Here you will fi
 * Max Joseph  (@mbjoseph)
 * Martha Morrissey
 
-## Getting started with the Conda Environment
+## Getting started with the Conda Env.
 
 ### 1. Install the Earth Lab Conda Environment on your Local Computer.
 
